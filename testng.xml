@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="test automation scripts execution">
+  <test name="time crads validation scripts">
+    <classes>
+      <class name="com.paycore.core.Timecards"/>
+    </classes>
+  </test>
+</suite>
